@@ -9,6 +9,8 @@
 
 面向 **Huawei Cloud EulerOS（ID=`hce`）** 定制。
 
+需增加一个自定义配置：key：`containerd_package_rpm`，value：`containerd`。
+
 其它发行版请使用上游项目：[pixiu-io/kubez-ansible](https://github.com/pixiu-io/kubez-ansible)。
 
 ## 学习分享
